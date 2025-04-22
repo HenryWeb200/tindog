@@ -8,6 +8,10 @@ p{
   font-weight: 500;
 }
 
+.nav {
+  top: 0;
+  position: sticky;
+}
 
 /***************ID Selectors***************/
 /* Title Section */
